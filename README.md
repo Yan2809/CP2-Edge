@@ -95,7 +95,7 @@ Este projeto utiliza os seguintes componentes e bibliotecas:
     title="Sistema de Monitoramento"
     width="600px" 
     style="padding-right: 10px;" 
-    src="Demetrius.png"
+    src="https://media.discordapp.net/attachments/1355162952348602390/1373053064876916817/image.png?ex=682902d0&is=6827b150&hm=2e91736ea4704a01cebcf281b13e1df1ccff85d3f0f27a3af20085731d53ddc9&=&format=webp&quality=lossless&width=1865&height=1168"
 />
 
 ## Nome Integrantes e RM
