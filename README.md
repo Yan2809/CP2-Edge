@@ -1,8 +1,8 @@
 # EDGE COMPUTING CP-2
-# 🔅 Sistema de Monitoramento de Luminosidade, umidade e Temperatura para Vinheria Agnello
+# 🔅 Sistema de Monitoramento de Luminosidade, Umidade e Temperatura para Vinheria Agnello
 
 ## ♦ Descrição do Projeto
-A qualidade do vinho pode ser impactada diretamente por fatores como temperatura, umidade e luminosidade. O sistema desenvolvido para a Vinheria Agnello tem como objetivo monitorar as 3 principais condições do ambiente onde os vinhos são armazenados. Este sistema visa garantir que os requisitos ja apresentados estejam sempre dentro dos limites recomendados para preservar a qualidade do vinho. 
+A qualidade do vinho pode ser impactada diretamente por fatores como temperatura, umidade e luminosidade. O sistema desenvolvido para a Vinheria Agnello tem como objetivo monitorar as 3 principais condições do ambiente onde os vinhos são armazenados. Este sistema visa garantir que os requisitos já apresentados estejam sempre dentro dos limites recomendados para preservar a qualidade do vinho. 
 
 ## ♦ Funcionalidade
 - O sistema utiliza um sensor LDR para capturar os dados de luminosidade do ambiente.
@@ -14,17 +14,18 @@ A qualidade do vinho pode ser impactada diretamente por fatores como temperatura
 
 - O sistema uliliza uma tela LCD 16x2 I2C para mostrar informacoes: 
   - Temp. Alta: temperatura acima do limite.
-  - Temp. baixa: temperatura a baixo do limite.
-  - Umidade ok: Niveis de umidade controlados.
-  - Umidade alta: Umidade fora dos limites estipuilados.
-  - Umidade baixa: Umidade a baixo do limite estipulado.
-  - Ambiente escuro: luminosidade dentro dos parâmetros (LED verde). 
+  - Temp. Baixa: temperatura abaixo do limite.
+  - Temp. Ok: temperatura dentro dos limites estipulados.
+  - Umidade ok: Níveis de umidade controlados.
+  - Umidade alta: Umidade acima dos limites estipulados.
+  - Umidade baixa: Umidade abaixo dos limites estipulados.
+  - Ambiente escuro: Luminosidade dentro dos parâmetros (LED verde). 
   - Ambiente meia-luz: Luminosidade em alerta (LED amarelo).
-  - Ambiente claro: luminosidade fora dos limites estipulados (LED vermelho).
+  - Ambiente claro: Luminosidade fora dos limites estipulados (LED vermelho).
 
-- O sistema dispoe de um sensor DHT11 para capturar os dados de temperatura e umidade do ambiente:
+- O sistema dispõe de um sensor DHT11 para capturar os dados de temperatura e umidade do ambiente:
   - O DHT11 utiliza um medidor capacitivo para medir a umidade e um termistor para medir a temperatura.
-- Caso umidade e temperatura atinjam níveis de alerta, o buzzer será ativado. O buzzer continuará soando enquanto os niveis apresentados permanecam fora da faixa ideal.
+- Caso a umidade e temperatura atinjam níveis de alerta, o buzzer será ativado. O buzzer continuará soando enquanto os níveis apresentados permanecerem fora da faixa ideal.
 
 
 ## ♦ Dependências
@@ -147,5 +148,5 @@ Yan Breno Barutti Conceição - RM: 566412
 
 ## ♦ Links do projeto:
 
-- 🔗 **[Simulação no Tinkercad]  <- LINKS AQUI ->  **
-- 🎥 **[Vídeo explicativo]  <- LINKS AQUI ->  **
+- 🔗 **[Simulação no Wokwi](https://wokwi.com/projects/430952043655319553)**
+- 🎥 **[Vídeo explicativo]()**
