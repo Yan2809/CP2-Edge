@@ -149,4 +149,4 @@ Yan Breno Barutti Conceição - RM: 566412
 ## ♦ Links do projeto:
 
 - 🔗 **[Simulação no Wokwi](https://wokwi.com/projects/430952043655319553)**
-- 🎥 **[Vídeo explicativo]()**
+- 🎥 **[Vídeo explicativo](https://youtu.be/MXO6aeZLaiA)**
